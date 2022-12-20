@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-   return 'Hello, World!'
+   return 'GreyMatters_Bot'
 
-#Ex https://Itz-zaid:ghp_147bkkabcdefgh@github.com/Itz-zaid/anything
-os.system("git clone https://username:token@github.com/username/reponame ok && cd ok && pip3 install -U -r requirements.txt && nohup python3 main.py &")
+#Ex https://Greymattersbot:ghp_147bkkabcdefgh@github.com/Greymattersbot/Mogenius
+os.system("git clone https://GITHUB-USERNAME:token@github.com/GITHUB-USERNAME/YOUR-REPO-NAME okk && cd okk && pip3 install -U -r requirements.txt && nohup python3 main.py &")
